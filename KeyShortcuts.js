@@ -1,13 +1,7 @@
 window.addEventListener("keydown", homePage, false);
 function homePage(key){
-    if (key.keyCode == "32"){
+    if (key.keyCode == "20"){
 window.location.href = 'https://www.mahwos92.ml/';
-    }
-}
-window.addEventListener("keydown", contactPage, false);
-function contactPage(key){
-    if (key.keyCode == "69"){
-window.location.href = 'https://www.mahwos92.ml/p/contact-us.html';
     }
 }
 window.addEventListener("keydown", topPage, false);
