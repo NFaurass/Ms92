@@ -1,7 +1,7 @@
 window.addEventListener("keydown", homePage, false);
 function homePage(key){
     if (key.keyCode == "20"){
-window.location.href = 'https://www.mahwos92.ml/';
+window.location.href = 'https://www.mahwos92.tk/';
     }
 }
 window.addEventListener("keydown", topPage, false);
