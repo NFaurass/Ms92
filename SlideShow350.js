@@ -1,6 +1,6 @@
 //<![CDATA[
 featuredbwidget({
-listURL:"https://www.mahwos92.ml",
+listURL:"https://www.mahwos92.tk",
 featuredNum:10,
 listbyLabel:'هواتف',
 feathumbSize:350,
