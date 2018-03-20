@@ -7,7 +7,7 @@ var urls={
     'twitter':"https://twitter.com/faurass_nidal",
     'youtube':"https://www.youtube.com/channel/UCrU3wu2bT-e8PiZGiT_UVxg?sub_confirmation=1",
     'instagram':"https://www.instagram.com/nidal_faurass",
-    'rss':"http://feeds.feedburner.com/mahwos92/KAbL",
+    'rss':"http://feeds.feedburner.com/Mahwos92",
     's92':"https://shortener92.blogspot.com",
     'app':"http://www.mediafire.com/file/633ok97294n4uf9/com_mahwos92_app.apk",
 }
