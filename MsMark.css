@@ -1,0 +1,54 @@
+@keyframes beating{
+    0%{transform:scale(1)}40%{transform:scale(1.25)}70%{transform:scale(.9)}100%{transform:scale(1)}
+}
+
+.Ms92Logo:hover .MS92HY {
+    right:12px;
+}
+
+.Ms92Logo:hover {
+    width:90px;
+    background-color:#fff;
+}
+
+.Ms92Logo:hover .MS92HY1 {
+    left:-29px!important;
+}
+
+.Ms92Logo .MS92HY1 {
+    width:16px;
+    height:16px;
+    position:absolute;
+    top:10px;
+    left:10px;
+    -webkit-animation:beating 0.5s infinite ease-in-out;
+    transition:0.2s;
+}
+
+.Ms92Logo .MS92HY {
+    position:absolute;
+    width:66px;
+    right:-73px;
+    transition:0.2s;
+    top:2px;
+}
+
+.Ms92Logo {
+    display:inline-block;
+    border-radius:5px;
+    background-color:beige;
+    margin-right:10px;
+    width:36px;
+    height:36px;
+    font-family:fontawesome;
+    position:relative;
+    transition:0.2s;
+    overflow:hidden;
+    top:8px;
+}
+
+#Ms92Beat p{
+    display:inline-block;
+    position:relative;
+    top:-4px;
+}
