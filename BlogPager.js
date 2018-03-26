@@ -1,6 +1,6 @@
 /*<![CDATA[*/
-    var perPage=18;
-    var numPages=4;
+    var perPage=10;
+    var numPages=5;
     var firstText ='السابق';
     var lastText ='التالي';
     var prevText ='';
