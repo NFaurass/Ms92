@@ -3,6 +3,8 @@ margin:0;
 padding:0;
 list-style:none;
 position:relative;
+font-family: Changa;
+font-weight: 100;
 }
 
 ul.featured-widget-list li{
@@ -12,6 +14,8 @@ display:none;
 ul.featured-widget-list li:nth-child(1){
 display:block;
 line-height:0;
+font-family: Changa;
+font-weight: 100;
 }
 
 ul.featured-widget-list img{
@@ -52,8 +56,10 @@ font: 600 16px 'jflat';
 overflow:hidden;
 }
 
-ul.featured-widget-list li:hover h5{
-bottom:30px;
+ul.featured-widget-list li:hover h5 {
+    bottom: 30px;
+    font-family: Changa;
+    font-weight: 100;
 }
 
 ul.featured-widget-list .featured-meta{
@@ -76,9 +82,11 @@ ul.featured-widget-list h5, ul.featured-widget-list .featured-meta {
 transition: all 0.3s;
 }
 
-ul.featured-widget-list li:hover .featured-meta{
-bottom:20px;
-opacity:1;
+ul.featured-widget-list li:hover .featured-meta {
+    bottom: 20px;
+    opacity: 1;
+    font-family: Changa;
+    font-weight: 500;
 }
 
 .feat-buttons{
